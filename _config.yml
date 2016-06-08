@@ -1,0 +1,14 @@
+layout_spectrum: 0.2851064
+typography_spectrum: 0.4276596
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: MeloDox
